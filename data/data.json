@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "client": "Sara",
+    "montant": 450,
+    "statut": "Livrée",
+    "paiement": "Payé",
+    "date": "2026-10-12"
+  },
+  {
+    "id": 2,
+    "client": "Youssef",
+    "montant": 320,
+    "statut": "En attente",
+    "paiement": "Non payé",
+    "date": "2026-10-14"
+  },
+  {
+    "id": 3,
+    "client": "Amine",
+    "montant": 780,
+    "statut": "Livrée",
+    "paiement": "Payé",
+    "date": "2026-10-15"
+  },
+  {
+    "id": 4,
+    "client": "Lina",
+    "montant": 210,
+    "statut": "Annulée",
+    "paiement": "Non payé",
+    "date": "2026-10-16"
+  }
+]
